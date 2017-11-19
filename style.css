@@ -1,0 +1,39 @@
+body {
+    background-color:#BDB76B;
+}
+
+h1 {
+font-family: Harrington;
+  font-size: 70px;
+  text-shadow: 2px 1px #FFFFFF;
+    color: #008000;
+    text-align: center;
+  
+}
+
+i {
+  font-size: 58px;
+  font-family: Algerian;
+    color: green;
+  text-align: center;
+  word-spacing: 5px;
+}
+h2 {
+  font-size: 25px;
+  font-family: Courier New;
+    color: #8B0000;
+    text-align: center;
+word-spacing: 10px;
+}
+
+p {
+    font-family: Cooper Black;
+    font-size: 20px;
+  color: #8B0000;
+}
+a{
+font-size: 40px;
+font-color: Black;
+font-family: Verdana;
+text-align: center;
+}
